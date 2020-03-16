@@ -10,6 +10,8 @@ int tong(int n, int a)
 }
 int main()
 {
+    a=5;
+    a=6;
     cout << a;
     return 0;
 }
